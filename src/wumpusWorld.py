@@ -1,11 +1,8 @@
 #!/usr/bin/env python2.7.12
 #-*- coding: utf-8 -*-
 from random import randint
-from mapa import *
-from jogador import *
-
-
-
+from map import *
+from player import *
 
 
 if __name__ == "__main__":
